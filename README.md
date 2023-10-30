@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Evellyn Rodrigues
 
 ##
-- 🖥️ Estudante de Ciência da Computação 3/8 - UFAL (Campus Arapiraca).
+- 🖥️ Estudante de Ciência da Computação 4/8 - UFAL (Campus Arapiraca).
 
 <div align="center">
   <a href="https://github.com/evellyn489">
